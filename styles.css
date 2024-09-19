@@ -16,6 +16,7 @@
 .media-icons{
 	display:flex;
 	align-items:center;
+	gap:10px;
 }
 .facebook{
 	display:flex;
@@ -67,6 +68,9 @@
 	border-radius:50%;
 	background-color:#FF0000;
 }
+.link-boxes{
+	display:flex;
+}
 td{
 	font-size:15px;
 	color:#9A9A9A;
@@ -83,7 +87,7 @@ th{
 }
 table{
 	padding:20px;
-	width:90%
+	width:90%;
 }
 .bottom-details{
 	display:flex;
